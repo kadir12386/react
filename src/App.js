@@ -18,6 +18,11 @@ export default function App() {
       pic: "https://i.pinimg.com/736x/5f/07/bc/5f07bc2cfc7fb8368d79771cce2fc25a.jpg",
       des: "Kutty, a kind young man, falls in love with Geeta, but she does not reciprocate his love. He continues to pursue her even after learning that she is in a relationship with Arjun, her college-mate.",
     },
+    {
+      name: "Movie 3",
+      pic: "https://i.pinimg.com/736x/5f/07/bc/5f07bc2cfc7fb8368d79771cce2fc25a.jpg",
+      des: "Kutty, a kind young man, falls in love with Geeta, but she does not reciprocate his love. He continues to pursue her even after learning that she is in a relationship with Arjun, her college-mate.",
+    },
   ];
 
   const [movies, setMovies] = useState(initial_Movies);
